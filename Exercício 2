@@ -6,8 +6,8 @@ d3 = (numero // 100) %10
 d4 = (numero // 10) %10
 d5 = numero % 10
 
-print(f"{d1}")
-print(f"{d2}")
-print(f"{d3}")
-print(f"{d4}")
-print(f"{d5}")
+print(d1)
+print(d2)
+print(d3)
+print(d4)
+print(d5)
